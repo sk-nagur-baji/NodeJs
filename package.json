@@ -1,0 +1,17 @@
+{
+    "name": "calcbaji",
+    "version":"0.1.1",
+    "main":"calc",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/sk-nagur-baji/NodeJs"
+    },
+    "keywords":[
+        "calc",
+        "calcbaji","baji"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+}
